@@ -45,7 +45,8 @@ $color-one: rgb(220, 179, 28);
 	padding-top: 30px;
 	padding-left: 40%;
 	text-decoration: none;
-	color: white ul {
+	color: white;
+	ul {
 		list-style-type: none;
 		display: inline;
 	}
@@ -159,11 +160,4 @@ $color-one: rgb(220, 179, 28);
 }
 .footer {
 	display: inline;
-}
-
-.a-twitter {
-	border: 1px solid;
-	border-radius: 90%;
-	padding: 1px;
-	margin: 1px;
 }
